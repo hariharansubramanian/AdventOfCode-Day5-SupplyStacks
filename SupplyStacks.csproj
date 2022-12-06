@@ -9,9 +9,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Update="stacks_input.txt">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
+        <None Update="stacks_input.txt">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
     </ItemGroup>
 
 </Project>
